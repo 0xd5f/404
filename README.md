@@ -30,6 +30,6 @@ https://github.com/user-attachments/assets/61820d83-37d5-4501-b480-f321738ad33b
 
 ---
 
-**Автор:** [0xd5f] 
+**Автор:** [0xd5f](https://github.com/0xd5f)
 ---
-BTC: bc1q20yn32a9ykkgcf7r8g23n7gwqzzfj9u932w4ww
+BTC: `bc1q20yn32a9ykkgcf7r8g23n7gwqzzfj9u932w4ww`
